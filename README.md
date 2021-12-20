@@ -3,6 +3,8 @@
 
 tutorial on how to use cmake with dlib easily
 
+#### main.cpp
+this could be any code that uses dlib, a matrix operation example is tested here from dlib/examples.
 
 #### usage
 
